@@ -34,7 +34,7 @@ function play() {
 
 
 window.onscroll = function() {
-    let num = document.documentElement.scrollTop / 70 % Math.PI;
+    let num = 2*(document.documentElement.scrollTop / 120 % Math.PI);
 
 document.getElementById('svg8').style.transform ='rotate(' + num + 'rad)';
 }
