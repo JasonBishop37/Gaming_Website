@@ -246,6 +246,7 @@ function play() {
             <h2>My Links</h2>
             <a href="https://www.facebook.com/Jason-102437059257397">Facebook</a>
             <a href="https://www.instagram.com/jason_bishop113/">Instagram</a>
+            <p>©Jason Bishop</p>
            
             
         </div>
